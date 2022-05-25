@@ -55,7 +55,7 @@ width: 100%;
 }
 
 .m-none {
-    background-image: linear-gradient(rgba(102, 102, 131, 0.76), rgba(44, 10, 2, 0.576)), url("./photos/tech5.jpg");
+    background-image: linear-gradient(rgba(253, 253, 253, 0.76), rgba(94, 65, 199, 0.576)), url("./photos/tech3.jpg");
     height: 53px;
     width: 100%;
     position: fixed;
@@ -219,5 +219,9 @@ h1.alphah1 {
     .auto {
         display: grid;
         grid-template-columns: auto auto auto;
+    }
+
+    .drop-down {
+        display: none;
     }
 }
